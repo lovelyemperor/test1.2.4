@@ -1,6 +1,6 @@
 window.themeVersion = [
     [
         "v1.2.4",
-        "d96b79532a67ff336757e081eda72802752dc5fc"
+        "e4aae21eca8cb4092cfd21f11fe30f8497c00f55"
     ]
 ]
